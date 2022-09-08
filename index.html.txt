@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1400px">
+
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-32"> 
+  <h1><b>Materiais Ferromagnéticos e Eletroímã</b></h1>
+  <p>Bem-vindo ao Blog!<span class="w3-tag">Física3A</span></p>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>Qual é a origem das propriedades magnéticas dos materiais?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>As propriedades magneticas dos materiais vem da suas próprias estruturas eletrônicas dos seus átomos, existem dois tipos de explicações para os momentos magnéticos, sendo um o momento angular orbital do elétron, e o outro, o momento angular do “spin” do elétron.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>O que é momento angular e Spin?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>O momento Angular de Spin é uma propriedade associada a todas as partículas tais como elétrons, prótons, nêutrons, fótons, partículas alfa, as quais todas possuem momento angular. Cada partícula tem um número quântico chamada spin “s”. O spin é uma propriedade intrínseca da partícula e não depende de seu estado de movimento.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>O que são órbitas, subcamadas e camadas de um átomo?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>Orbitas são regiões do espaço ao redor do núcleo de um átomo, onde é provável que um elétron seja encontrado.</p>
+      <p>Camadas e Subcamadas de um átomos são niveis de energia onde os eletrons se distrbuem, são representados pelas letras: S,P,D e F em ordem crescente de energia.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>O que é um material ferromagnético?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>Materiais ou subsâncias ferromagéticas fazem parte de um pequeno grupo de recursos encontrados na natureza que ao serem colocados na presença de um campo magnético se imantam fortemente.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>O que são Domínios magnéticos?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>Os domínios magnéticos são regiões dentro de um material magnético no qual a magnetização está em direção uniforme.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>O que é o Ponto de Curie?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>O ponto Curie é o valor da temperetura que os materiais ferromagnéticos perdem seu magtismo.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>O que é a Permeabilidade relativa?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>A permeabilidade relativa é a medida da capacidade de um determinado material ser percorrido por um fluxo sem perder suas características, em relação a outro material que lhe sirva de referência.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>O que é um eletroímã?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>É um despositicvo eletromagnetico que usa energia para criar um campo magnético ao redor de sí.</p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    
+    <div class="w3-container">
+      <h3><b>Como construir um ímã?</b></h3>
+      
+
+    <div class="w3-container">
+      <p>Para construi-lo precisamos de um prego de metal ou uma agulha, alguns centimetros de fio de cobre, uma pilha ou bateria e fita adesiva.
+ </p>
+      
+      <p>Com todos esses materiais em mão, pegue o fio de cobre e separe nele 20cm, e depois comece a enrola-lo em volta do seu metal apartir dos 20cm do fio(certifique-se de enrolar o fio sempre na mesma direção), pegue sua bateria ou pilha e enrole um fio ao redor de seu lado positivo e a outra ponta do fio em seu lado negativo, pegue um pedaço de fita e use para prender os dois lados, agora seu imã está pronto, só aproxima-lo de pequenos metais como clipes ou agulhas.
+ </p>
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+    
+    
+
+ 
+    
+    
+  
+  
+  
+
+</body>
+</html>
